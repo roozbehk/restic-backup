@@ -1,6 +1,6 @@
 # restic-backup
 ## backup.sh
-`
+```
 #!/bin/bash
 
 source  ~/.restic-keys
@@ -25,7 +25,7 @@ unset RESTIC_REPOSITORY
 curl https://betteruptime.com/api/v1/heartbeat/SvChSJpvtqAHYLunUT8dP2fg
 
 
-`
+```
 
 `.restic-keys`
 
