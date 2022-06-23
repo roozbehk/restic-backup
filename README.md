@@ -29,10 +29,10 @@ curl https://betteruptime.com/api/v1/heartbeat/SvChSJpvtqAHYLunUT8dP2fg
 
 `.restic-keys`
 
-`
+```
 export AWS_ACCESS_KEY_ID=""
 export AWS_SECRET_ACCESS_KEY=""
 export RESTIC_PASSWORD=""
 export RESTIC_REPOSITORY="s3:https://s3.us-east-2.wasabisys.com/"
 
-`
+```
